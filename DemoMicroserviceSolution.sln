@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{CF0A4D6A-A34C-40A1-957F-79206D2997F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerWebAPI", "CustomerWebAPI\CustomerWebAPI.csproj", "{F03B0BBA-EA77-4D3E-B8E3-13141A15847D}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{28660CB8-BBBB-4CAA-BFDE-36A262368E88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductWebAPI", "ProductWebAPI\ProductWebAPI.csproj", "{3BBF09D8-6ADC-4B4F-A9A9-2C28924EA9FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderWebAPI", "OrderWebAPI\OrderWebAPI.csproj", "{5A9DBCE0-9C66-45CB-BFAB-556301D77F26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{85762509-CC64-4FF2-AAAF-9E395039AD72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{57B6F638-26BB-43B0-8C90-4A6E235EF9CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{D2EAD8A3-2481-4ADC-BEC1-C34527FBE015}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebServerUI", "BlazorWebServerUI\BlazorWebServerUI.csproj", "{69968C53-8F02-470D-9C95-DF173F076F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F03B0BBA-EA77-4D3E-B8E3-13141A15847D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03B0BBA-EA77-4D3E-B8E3-13141A15847D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03B0BBA-EA77-4D3E-B8E3-13141A15847D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03B0BBA-EA77-4D3E-B8E3-13141A15847D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28660CB8-BBBB-4CAA-BFDE-36A262368E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28660CB8-BBBB-4CAA-BFDE-36A262368E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28660CB8-BBBB-4CAA-BFDE-36A262368E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28660CB8-BBBB-4CAA-BFDE-36A262368E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBF09D8-6ADC-4B4F-A9A9-2C28924EA9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBF09D8-6ADC-4B4F-A9A9-2C28924EA9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBF09D8-6ADC-4B4F-A9A9-2C28924EA9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBF09D8-6ADC-4B4F-A9A9-2C28924EA9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9DBCE0-9C66-45CB-BFAB-556301D77F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9DBCE0-9C66-45CB-BFAB-556301D77F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9DBCE0-9C66-45CB-BFAB-556301D77F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9DBCE0-9C66-45CB-BFAB-556301D77F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B6F638-26BB-43B0-8C90-4A6E235EF9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B6F638-26BB-43B0-8C90-4A6E235EF9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B6F638-26BB-43B0-8C90-4A6E235EF9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B6F638-26BB-43B0-8C90-4A6E235EF9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69968C53-8F02-470D-9C95-DF173F076F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69968C53-8F02-470D-9C95-DF173F076F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69968C53-8F02-470D-9C95-DF173F076F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69968C53-8F02-470D-9C95-DF173F076F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F03B0BBA-EA77-4D3E-B8E3-13141A15847D} = {CF0A4D6A-A34C-40A1-957F-79206D2997F1}
+		{3BBF09D8-6ADC-4B4F-A9A9-2C28924EA9FC} = {CF0A4D6A-A34C-40A1-957F-79206D2997F1}
+		{5A9DBCE0-9C66-45CB-BFAB-556301D77F26} = {CF0A4D6A-A34C-40A1-957F-79206D2997F1}
+		{57B6F638-26BB-43B0-8C90-4A6E235EF9CB} = {85762509-CC64-4FF2-AAAF-9E395039AD72}
+		{69968C53-8F02-470D-9C95-DF173F076F2C} = {D2EAD8A3-2481-4ADC-BEC1-C34527FBE015}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {316FAF51-B627-41F7-87C5-101C09D1B7BA}
+	EndGlobalSection
+EndGlobal

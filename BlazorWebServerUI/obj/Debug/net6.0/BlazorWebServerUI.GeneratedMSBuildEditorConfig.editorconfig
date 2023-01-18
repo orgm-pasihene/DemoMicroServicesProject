@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorWebServerUI
+build_property.RootNamespace = BlazorWebServerUI
+build_property.ProjectDir = C:\Users\OBUOBI\source\repos\DemoMicroservice\DemoMicroserviceSolution\BlazorWebServerUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\OBUOBI\source\repos\DemoMicroservice\DemoMicroserviceSolution\BlazorWebServerUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/AddOrder.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkT3JkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/Customer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/CustomerRecord.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJSZWNvcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/Order.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/OrderDetailRecord.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxSZWNvcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/Product.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/ProductRecord.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFJlY29yZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-29lwl0w4zq
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-iylv0y5r1z
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OBUOBI/source/repos/DemoMicroservice/DemoMicroserviceSolution/BlazorWebServerUI/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
