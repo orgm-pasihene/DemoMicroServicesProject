@@ -8,4 +8,4 @@ The API gateway communicates with the Web APIs which communicates with the vario
 The UI is used for CRUD operations which is sent to the database.
 The Docker Compose Ochestrates how the communication happens & how the ports are exposed & communicate.
 At runtime, the Order page is dependent on the Customer & Product page because thats what will be used to make an Order.
-Each Project has a Dockerfile which tells the sevice has to run.
+Each Project has a Dockerfile which tells the sevice how to run.
